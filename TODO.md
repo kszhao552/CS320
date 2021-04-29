@@ -1,0 +1,1 @@
+In assignment 3, there is an unimplemented function called read_bool_tree which was not completed. It is supposed to read the setup of a bool tree and convert it into a binary tree type. Unforunately, I did not have time to finish it, but hopefully one day I can add its functionality.
