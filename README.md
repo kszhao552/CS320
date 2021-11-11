@@ -1,7 +1,7 @@
 # CS 320 - Concepts of Programming Languages
 Problem sets from BU CAS CS 320 Spring 2021 Semester
 
-This repository is to store the basic problem sets for CAS CS 330 - Spring 2021 Semester. To see the interpreter from the class, [click here](https://github.com/kszhao552/OCAML-Interpreter).
+This repository is to store the basic problem sets for CAS CS 320 - Spring 2021 Semester. To see the interpreter from the class, [click here](https://github.com/kszhao552/OCAML-Interpreter).
 
 The main focus of this class was functional programming, and thus all the assignments were done in OCAML. 
 
